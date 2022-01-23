@@ -1,1 +1,3 @@
 # finance-volatility-models
+
+A volatility model must be able to **forecast volatility**; this is the central requirement in almost all financial applications. The results of this script outlines some stylized facts about volatility: pronounced persistence and mean-reversion, asymmetry such that the sign of an innovation also affects volatility and the possibility of exogenous or pre-determined variables influencing volatility. I used data on the **Dow Jones Industrial Index** to illustrate these stylized facts, and the ability of **GARCH-type models** to capture these features.
